@@ -1,0 +1,18 @@
+.user{
+    border: 1px solid #EBF5FB;
+    padding: 25px;
+    border-radius: 15px;
+    margin-top: 25px;
+    text-align: start;
+    align-items: center;
+    display: grid;
+    grid-template-columns: 60% repeat(2, 1fr) auto;
+    box-shadow: 5px 10px 18px #888888;
+    background-color: #E8F8F5;
+    transition: transform .2s;
+}
+.user:hover{
+    background-color: #FDF2E9;
+    border: 1px solid #BDC3C7;
+    transform: scale(1.03);
+}

@@ -1,0 +1,7 @@
+.button{
+    width: 150px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 5rem;
+}
